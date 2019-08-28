@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-<title> UH</title>
+<title> LOSHARA</title>
 </head>
 <body>
           <h1> Интересная параша [HOMO Assembly] </h1>
