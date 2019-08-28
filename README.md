@@ -10,5 +10,3 @@
     <h3>Ссылка на наш <a href= "https://discordapp.com/invite/djhDbcS"> дискорд </a>!</h3>    
 1. <a id="sas" href= "https://princephobos.github.io/">Как ДДОСИТЬ PEPER BOX CSS V 34 46.174.52.14:27254 </a>        
 
-</body>
-</html>
